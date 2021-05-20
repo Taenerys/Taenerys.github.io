@@ -48,13 +48,17 @@ table {
 }
 
 html {
-  font-family: 'Oswald', sans-serif;
+  /* font-family: 'Oswald', sans-serif; */
+  font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
   text-align: left;
   letter-spacing: 0.1rem;
 }  
 
 h1 {
-  font-family: 'Anton', sans-serif;
+  /* font-family: 'Anton', sans-serif; */
+  /* font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif; */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
   font-size: 5rem;
   padding: 1rem;
   line-height: 6rem;
@@ -131,7 +135,8 @@ p {
 
 
 #links {
-  font-family: 'Oswald', 'Arial', sans-serif;
+  /* font-family: 'Oswald', 'Arial', sans-serif; */
+  font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
   letter-spacing: 1.8px;
 }
 
